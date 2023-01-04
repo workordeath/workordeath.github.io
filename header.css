@@ -1,6 +1,13 @@
 ﻿body {
     flex: 1;
     display: flex;
+    /*
+        Removed the padding, and
+        margins that are default
+        with the flex boxes.
+    */
+    padding: 0;
+    margin: 0;
 
     background-color: black;
 }
