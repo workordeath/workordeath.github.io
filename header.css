@@ -12,7 +12,7 @@
     background-color: black;
 }
 
-.headerBar {
+.headerbar {
     flex: 1;
     /*
         the following two lines, are needed
@@ -24,6 +24,8 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
+
+
 
     background-color: purple;
     color: white;
